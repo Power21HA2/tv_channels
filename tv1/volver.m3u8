@@ -1,0 +1,7 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a7ecf0c34695dd4e253574b0b85441e&key=e6518e0b5dfa5e0dc268a5b16106811b
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/volver@2x.png" group-title="Entretenimiento",Volver
+https://cdn.sensa.com.ar/live/eds/Volver/live_dash_cld/Volver.mpd
