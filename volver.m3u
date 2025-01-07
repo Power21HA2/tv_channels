@@ -1,0 +1,7 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://1.bestandroidbox.click/arkey/Volver.json
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://web.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://web.flow.com.ar/
+#EXTINF:-1,Volver
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_2A/Volver.mpd
